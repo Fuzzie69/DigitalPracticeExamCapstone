@@ -40,7 +40,7 @@
     "question": "Which instrument is best for measuring insulation resistance?",
     "options": [
       "Multimeter",
-      "Insulation resistance tester (Megger)",
+      "Insulation resistance tester",
       "Clamp meter",
       "Oscilloscope"
     ],
@@ -625,7 +625,7 @@
   },
   {
     "id": 53,
-    "question": "Which device protects a transformer from internal arcing faults?",
+    "question": "Which device protects a transformer from overheating?",
     "options": [
       "Fuse",
       "Buchholz relay",
@@ -916,7 +916,7 @@
     "question": "Which document defines employer obligations for electrical apprenticeships in NZ?",
     "options": [
       "Employment Relations Act 2000",
-      "Electricity Act 1992",
+      "Electricity Act 1994",
       "Building Act 2004",
       "Energy Safety Act 2010"
     ],
@@ -1023,10 +1023,10 @@
     "id": 86,
     "question": "What is the RMS voltage of a 325\u202fV peak AC supply?",
     "options": [
-      "115\u202fV",
-      "230\u202fV",
-      "250\u202fV",
-      "300\u202fV"
+      "115.46\u202fV",
+      "229.81\u202fV",
+      "459.69\u202fV",
+      "300.59\u202fV"
     ],
     "answer": "230\u202fV",
     "reference": "Module 2 \u2013 AC Theory"
@@ -1071,10 +1071,10 @@
     "id": 90,
     "question": "In a 3-phase system, if VL = 400\u202fV, what is the phase voltage?",
     "options": [
-      "230\u202fV",
-      "240\u202fV",
-      "250\u202fV",
-      "400\u202fV"
+      "230.94\u202fV",
+      "240.78\u202fV",
+      "250.55\u202fV",
+      "398\u202fV"
     ],
     "answer": "230\u202fV",
     "reference": "Module 2 \u2013 Three-Phase Systems"
@@ -1117,27 +1117,27 @@
   },
   {
     "id": 94,
-    "question": "Before commencing electrical work, what document authorises the isolation of a circuit?",
+    "question": "Before commencing electrical work, what should be carried out before the isolation of a circuit?",
     "options": [
       "Permit to work",
       "Risk assessment",
       "Job card",
       "Inspection report"
     ],
-    "answer": "Permit to work",
+    "answer": "Risk assessment",
     "reference": "Module 1 \u2013 Safe Work Procedures"
   },
   {
     "id": 95,
-    "question": "Which symbol colour represents a mandatory safety action?",
+    "question": "Who should carry out a risk assessment before work begins?",
     "options": [
-      "Yellow",
-      "Red",
-      "Blue",
-      "Green"
+      "All employees involved with the work",
+      "co-workers elsewhere",
+      "Supervisor only",
+      "Only the site forman"
     ],
-    "answer": "Blue",
-    "reference": "Module 1 \u2013 Safety Signage"
+    "answer": "All employees involved with the work",
+    "reference": "General Knowledge"
   },
   {
     "id": 96,
@@ -1479,7 +1479,7 @@
     "id": 124,
     "question": "What is the main responsibility of a PCBU under NZ law?",
     "options": [
-      "Provide PPE",
+      "Provide lunch",
       "Ensure workplace safety",
       "Train apprentices",
       "Inspect installations"
@@ -1712,7 +1712,7 @@
       "Blue",
       "Green/Yellow"
     ],
-    "answer": "Blue",
+    "answer": "Black",
     "reference": "Module 2 \u2013 Conductor Identification"
   },
   {
@@ -2067,12 +2067,12 @@
     "id": 173,
     "question": "If a 4\u2011pole motor runs at\u202f1450\u202frpm\u202fon\u202f50\u202fHz, what is its approximate slip percentage?",
     "options": [
-      "2%",
-      "4%",
-      "6%",
+      "2.6%",
+      "3.3%",
+      "6.1%",
       "8%"
     ],
-    "answer": "4%",
+    "answer": "3.3%",
     "reference": "Module 8 \u2013 Motor Slip Calculation"
   },
   {
@@ -2163,7 +2163,7 @@
     "id": 181,
     "question": "What is the correct colour for the active conductor in single\u2011phase appliance wiring?",
     "options": [
-      "Blue",
+      "Light Blue",
       "Brown",
       "Green/Yellow",
       "Black"
@@ -2173,7 +2173,7 @@
   },
   {
     "id": 182,
-    "question": "If a 230\u202fV\u202fsupply delivers\u202f5\u202fA\u202fat a power factor of\u202f0.8, what is the real power consumed?",
+    "question": "If a 230\u202fV\u202fsupply delivers\u202f5\u202fA\u202fat a power factor of\u202f0.8, what is the True power consumed?",
     "options": [
       "920\u202fW",
       "1035\u202fW",
@@ -2247,10 +2247,10 @@
     "id": 188,
     "question": "Which component in a DC power supply smooths the rectified output?",
     "options": [
-      "Resistor",
+      "Transistor",
       "Capacitor",
-      "Transformer",
-      "Diode"
+      "Silicon BJT",
+      "Germanium BJT"
     ],
     "answer": "Capacitor",
     "reference": "Module 5 \u2013 Power Supplies"
@@ -2389,7 +2389,7 @@
   },
   {
     "id": 200,
-    "question": "Which component opposes changes in current flow?",
+    "question": "Which component opposes changes in current flow due to it's storage of energy in a magnetic field?",
     "options": [
       "Resistor",
       "Capacitor",
