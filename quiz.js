@@ -6,8 +6,8 @@ let currentQuestionIndex = 0;
 let userAnswers = {};
 let flaggedQuestions = new Set();
 let timerInterval;
-const EXAM_DURATION = 120 * 60; // 2 hours in seconds (practice capstone)
-const TOTAL_QUESTIONS = 30; // Reduced to 30 representative capstone questions
+const EXAM_DURATION = 90 * 60; // 2 hours in seconds (practice capstone)
+const TOTAL_QUESTIONS = 60; // Reduced to 30 representative capstone questions
 const STORAGE_KEY = 'theory_exam_start_time';
 const STATE_KEY = 'theory_exam_state';
 const QUESTIONS_KEY = 'theory_exam_questions';
