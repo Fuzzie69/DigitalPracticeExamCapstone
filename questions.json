@@ -1076,7 +1076,7 @@
       "250.55\u202fV",
       "398\u202fV"
     ],
-    "answer": "230\u202fV",
+    "answer": "230.94\u202fV",
     "reference": "Module 2 \u2013 Three-Phase Systems"
   },
   {
@@ -1750,18 +1750,6 @@
     ],
     "answer": "P = V \u00d7 I",
     "reference": "Module 2 \u2013 Power and Energy"
-  },
-  {
-    "id": 147,
-    "question": "The slip of an induction motor is defined as the difference between:",
-    "options": [
-      "Rotor and stator current",
-      "Supply and generated voltage",
-      "Synchronous and rotor speed",
-      "Mechanical and electrical output"
-    ],
-    "answer": "Synchronous and rotor speed",
-    "reference": "Module 7 \u2013 AC Motors"
   },
   {
     "id": 148,
