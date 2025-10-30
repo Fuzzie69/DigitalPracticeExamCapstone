@@ -948,18 +948,6 @@
     "reference": "Module 1 \u2013 Safe Access Control"
   },
   {
-    "id": 80,
-    "question": "The colour of a safety sign indicating mandatory PPE is:",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Yellow"
-    ],
-    "answer": "Blue",
-    "reference": "Module 1 \u2013 Safety Signage"
-  },
-  {
     "id": 81,
     "question": "If a circuit has a resistance of 46\u202f\u03a9 and a supply of 230\u202fV, what is the current?",
     "options": [
